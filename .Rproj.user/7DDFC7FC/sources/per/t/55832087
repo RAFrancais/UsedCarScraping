@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596388851457.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1127129194",
+    "id" : "55832087",
+    "lastKnownWriteTime" : 1596610879,
+    "last_content_update" : 1596610879222,
+    "path" : "D:/RLearning/UsedCarScraping/CarScrape.R",
+    "project_path" : "CarScrape.R",
+    "properties" : {
+        "cursorPosition" : "58,2",
+        "scrollLine" : "30",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
