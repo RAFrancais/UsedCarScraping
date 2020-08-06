@@ -12,9 +12,9 @@
     "path" : null,
     "project_path" : null,
     "properties" : {
-        "cacheKey" : "C4877DAC",
+        "cacheKey" : "4A2512E0",
         "caption" : "bindLexus",
-        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=bindLexus&cache_key=C4877DAC",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=bindLexus&cache_key=4A2512E0",
         "displayedObservations" : "25",
         "environment" : "",
         "expression" : "bindLexus",
@@ -26,7 +26,7 @@
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 4,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_dataframe"

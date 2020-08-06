@@ -51,6 +51,17 @@ bindLexus[,1] <- str_trim(bindLexus[,1])
 bindLexus[,2] <- str_trim(bindLexus[,2])
 bindLexus[,3] <- str_trim(bindLexus[,3])
 
+bindLexus[,1] <- gsub("," , "",bindLexus[,1])
+bindLexus[,1] <- gsub("$" , "",bindLexus[,1])
+
+
+bindLexus[,1] <- gsub("$" , "",bindLexus[,1])
+
+
+bindLexus[,3] <- gsub("mi." , "",bindLexus[,3])
+bindLexus[,3] <- gsub("," , "",bindLexus[,3])
+
+
 
 Todo:
   remove "$" and ","
@@ -58,7 +69,20 @@ Todo:
   remove mi and comma
   
   
-  
-  
-  
-  
+noprice <- subset(bindLexus, carsPrice == "Not Priced")  
+pricedlexus <- subset(bindLexus, carsPrice != "Not Priced")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
